@@ -12,7 +12,7 @@ The usage of files is provided below
 
 The datasets are combinations between different UAV types and traffic modes.
 
-![Image](https://github.com/[Sanjay-Suthraye]/[uav-project]/blob/[main]/capture.jpg?raw=true)
+![Image](Capture.PNG)
 
 In this project we are using **Bi Directional Flow Data**.
 
