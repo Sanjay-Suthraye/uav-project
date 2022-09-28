@@ -27,3 +27,8 @@ This file consists of the EDA, Catboost Model & Shap Analysis
 ##### 4. Deployment file - **uav-app.py**
 
 Consists of Code files build using Streamlit and deployed on Heroku.
+
+##### 5. Pretrained Model & Standard Scalar Model
+
+**catboost_model_AP.json** is Pretrained Cat Boost Model
+**catboost_model_AP.bin** is Pretrained Scaling Model which can be used to Transform Test Data
